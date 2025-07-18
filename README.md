@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello! I'm Nelson Galicia Jr.
 
-<!--
-**N-Galicia/N-Galicia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A recent graduate in Electronics Engineering with hands-on experience in embedded systems and mobile app development. I’m passionate about building real-world tech solutions that combine hardware and software.
 
-Here are some ideas to get you started:
+## Areas of Interest
+- Internet of Things (IoT)
+- Mobile Development using Flutter & Dart
+- Embedded systems using ESP32 and PlatformIO
+- Prototyping with WokWi and TinkerCAD
+- Tech for navigation, safety, and accessibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools & Technologies
+- Flutter, Dart  
+- ESP32, PlatformIO  
+- Firebase, Google Maps API  
+- Git, GitHub  
+- Visual Studio Code
+
+## Projects 
+- Vibtrack: A wearable navigation system using ESP32 and mobile app integration  
+- Personal portfolio and project showcase (coming soon)
+
+## Let's Connect
+- LinkedIn: [Nelson Galicia Jr.](https://ph.linkedin.com/in/nelson-galicia-jr-430b83109)
+- Email: *njmgalicia.cvt@eac.edu.ph*
+
+> “Every expert was once a beginner. I build to learn, and I learn by building.”
